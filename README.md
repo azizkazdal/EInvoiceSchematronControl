@@ -20,4 +20,4 @@ String olarak elde edilen XSLT formatındaki metin ayrı bir dosya olarak kayded
 
 Ve artık işlem bir kaç ufak ayrıntıda halletiniz mi şematron kontrolü için kullanacağınız XSLT dosyanız hazır. 
 
-XML kurallarını ISO şematron dönüşüm dosyası ile elde ettiğiniz XSLT dosyası içerisinde bir kaç NET tarafından desteklenmeyen fonksiyon (matches, exist gibi) geliyor. Bunları XSLT dosyanız içerisinden kaldırdığınız da artık şematron kontrol dosyanız hazır 
+XML kurallarını ISO şematron dönüşüm dosyası ile elde ettiğiniz XSLT dosyası içerisinde bir kaç NET tarafından desteklenmeyen fonksiyon (matches, exist gibi) geliyor. Bunları XSLT dosyanız içerisinden kaldırdığınız da artık şematron kontrol dosyanız hazır.

@@ -1,5 +1,6 @@
 # EInvoiceSchematronControl
 E-Fatura Şematron Kontrol
+
 Nasıl yapacağımı uzun zaman aradığım ve mantığını kafamda ilk anlarda oturmakta zorlandığım e-fatura ve diğer e-belgeler için şematron kontrolü nasıl yapılabileceğine dair ipuçlarını ve kod örneklerini bulabilirsiniz.
 Her nedense şematron kontrolünün nasıl yapılabileceğine dair bilgi paylaşımı ne yazıkki fazla yok. Özellikle NET CORE (yeni adıyla NET) ortamında geliştirme yapanlar için XML şematron kontrolü epeyce sıkıntılı olabiliyor. 
 NET XSLT transform versiyonu olarak sadece XSLT v1 i desteklediğini aklımızdan çıkarmamak gerek :) Meselenin en kritik noktası burası.
